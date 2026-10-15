@@ -18,3 +18,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/events3py/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",EVENTOS 5
 http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdpMdIr9xVgwVKTGDsccwv2APdMEqZGfdKG1Q51VqPA&s" group-title="DEPORTES PREMIUM",DSPORTS ARG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=278128004fe8c6ffb2cd2a0c154a241a&keyid=4f4c3a9912ea752e88f4497864a1bc8b
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
