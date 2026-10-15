@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",TIGO SPORTS 24/7 HD
+https://hugh.cdn.rumble.cloud/live/3fms19g4/live-hls/y51i-e14e/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",TIGO SPORTS PLUS 24/7 HD
+https://hugh.cdn.rumble.cloud/live/fi1x0ov/live-hls/2f53-csdx/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",TIGO SPORTS 3 24/7 HD
+https://hugh.cdn.rumble.cloud/live/d5a20b4d/live-hls/yciv-hest/chunklist_480p_i1_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",EVENTOS 1 MPD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",EVENTOS 2
+https://lbgo.bozztv.com/ssh101/ssh101/events1py/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",EVENTOS 3
+https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",EVENTOS 4
+https://lbgo.bozztv.com/ssh101/ssh101/events3py/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10" group-title="EVENTOS PY",EVENTOS 5
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
