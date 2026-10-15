@@ -33,3 +33,18 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/hoo4ddqavw/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=c664b811a97edc555da47c1d22482542&keyid=0db71325e4256f5f16b348b3b1b7832a
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/400/400/0/0/25899985073189.png?WORLDTV6" group-title="DEPORTES PREMIUM",ESPN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=b3e4e74ae2080b137e68bbd0ef8a7e05&keyid=cb004fb100bd92f23793562891e3236b
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/40/40/0/0/32397574073429.png?WORLDTV6" group-title="DEPORTES PREMIUM",ESPN 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=a81ee4a694fecd6aa8a682e5024b313c&key=6d15568e1dab59e7202ae12e71505185
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/40/40/0/0/85904894074972.png?WORLDTV6" group-title="DEPORTES PREMIUM",ESPN 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=8a60d7889ff126ee1895335e92254f8e&key=de1b0ce19fa804a1c473eb8ef2d5cf6d
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd
