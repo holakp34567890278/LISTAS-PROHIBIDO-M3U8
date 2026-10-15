@@ -48,3 +48,23 @@ https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=8a60d7889ff126ee1895335e92254f8e&key=de1b0ce19fa804a1c473eb8ef2d5cf6d
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/40/40/0/0/16514023071132.png?WORLDTV6" group-title="DEPORTES PREMIUM",ESPN 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=54a2c11085c315ed6ff85c340a86095d&key=5f0d10cf4a5c7e22e286b7e8cb4e79f4
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6bvjxGP/espn-5B.png?WORLDTV6" group-title="DEPORTES PREMIUM",ESPN 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=4e126297fc7af35c736bdffe98eecaaa&key=fdb0091cf67d9c596dbfb07cf6f4c8f5
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CsyhPz4/espn-6B.png?WORLDTV6" group-title="DEPORTES PREMIUM",ESPN 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=f5836382452cdca1e1c8bf8b9a713534&key=7d261930c3309ed2b06d2abb34a64410
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LSQFzkw/espn-7B.png?WORLDTV6" group-title="DEPORTES PREMIUM",ESPN 7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=98ea1e32227adcd3618baac2bbf36814&key=72a03a09d33e412f14a9bfa4ef24b542
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
