@@ -68,3 +68,11 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=98ea1e32227adcd3618baac2bbf36814&key=72a03a09d33e412f14a9bfa4ef24b542
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPq5zJSeT8iILi5FIct4sndMJsY5LRhgIiMxa02uAbA&s" group-title="DEPORTES PREMIUM",ESPN PREMIUM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png" group-title="DEPORTES PREMIUM",FOX SPORTS
+https://bigboss.bemtv.cn/STREAM/23023/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjrQ0CQ/fs2.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2
+https://bigboss.bemtv.cn/STREAM/22892/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SBkkDxq/fs3.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3
+https://bigboss.bemtv.cn/STREAM/23022/playlist.m3u8
