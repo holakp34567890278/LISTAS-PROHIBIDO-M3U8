@@ -104,3 +104,7 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=7b2322a273843921a43e2c61dac7cae3&keyid=902e5ec0e3d05e665daa32fc23f4f59e
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="PARAGUAY",TELEFUTURO
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuE68aCTes-JnBJy2BqZ7_TgDqsi5h32ppmfM_0tIdxw&s" group-title="PARAGUAY",SNT
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
